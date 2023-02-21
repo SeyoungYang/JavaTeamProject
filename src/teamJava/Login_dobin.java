@@ -2,7 +2,7 @@ package teamJava;
 
 import java.util.Scanner;
 
-class Login {
+class Login_dobin {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
